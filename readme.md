@@ -1,2 +1,2 @@
-# selfoost_automata
+# selfpost_automata
 Simple deployment script
