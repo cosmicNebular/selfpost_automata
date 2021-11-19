@@ -1,4 +1,4 @@
-# Hello for automatization lovers!
+# Hello automatization lovers!
 It's just a simple script for downloading configs, building project and docker image, pushing image then restarting vm.
 ## Instructions for building:
 
